@@ -1,1 +1,1 @@
-This folder contains selected visualizations and screenshots from the Tableau dashboard.
+This folder contains the Tableau workbook used to create the Cyclistic bike-share analysis dashboard.
