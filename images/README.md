@@ -24,6 +24,10 @@ The dashboard presents differences between casual riders and annual members acro
 
 The interactive version of the dashboard is published on **Tableau Public**.
 
-The Tableau Public link is available here `README.md`.
+The Tableau Public link is available here in `README.md`.
 
+Related Files
+../report/Case Study Report_Bike_Share_Analysis.pdf — detailed analytical report
+../sql/analysis_queries.sql — SQL queries used for the analysis
+../images/Rider Behavior dashboard.png — dashboard preview
 
