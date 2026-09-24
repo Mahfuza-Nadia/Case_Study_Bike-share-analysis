@@ -29,5 +29,5 @@ The Tableau Public link is available here in `README.md`.
 Related Files
 ../report/Case Study Report_Bike_Share_Analysis.pdf — detailed analytical report
 ../sql/analysis_queries.sql — SQL queries used for the analysis
-../images/Rider Behavior dashboard.png — dashboard preview
+../images/Rider Behavior Dashboard.png — dashboard preview
 
