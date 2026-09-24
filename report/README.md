@@ -26,4 +26,4 @@ The report provides the detailed analysis behind the findings summarized in the 
 
 * `../images/Case_Study_Rider-Behavior-Analysis.twbx` — Tableau workbook
 * `../sql/analysis_queries.sql` — SQL analysis queries
-* `../images/cyclistic_dashboard.png` — dashboard preview
+* `../images/Rider Behavior Dashboard.png` — dashboard preview
